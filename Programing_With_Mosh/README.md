@@ -60,6 +60,12 @@ __dirname:C:\Users\john\Documents\NodeJS_Sandbox\Programing_With_Mosh\Wrapper
 ```
 
 ### FileSystem
-
 (53:01) readdir           
 *app_readdir.js
+```JS
+$ ls
+app_inspect.js
+
+$ node app_inspect.js
+Result [ 'app_inspect.js' ]
+```
