@@ -2,8 +2,10 @@
 
 # Node JavaScript Sandbox
 
-## INTRODUCTION     
-* globalThis Object - can be object access anywhere in the application. 
+## INTRODUCTION  
+Note: Begin Name is Upper Case is Classes, lower case is functions
+
+* global Object - can be object access anywhere in the application. 
 
 ```JS
 globalThis.console.log("My Message")
@@ -35,4 +37,7 @@ Node do not execute own code directly but wrappers in the following wrapper.
 
 ## File System
 ### FOLDER: FileSystem
-* readdir - Reads the contents of a directory. The callback gets two arguments (err, files) where files is an array of the names of the files in the directory excluding '.' and '..'.     
+* readdir - Reads the contents of a directory. The callback gets two arguments (err, files) where files is an array of the names of the files in the directory excluding '.' and '..'.   
+
+## Events
+### FOLDER: Events

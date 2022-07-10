@@ -2,10 +2,11 @@
 [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)    
 [Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=799s)
 
+## Explaination
+(15:32) Module  
+(53:19) Events Module
+
 ## FOLDERS
-
-(15:32) Module Explaination 
-
 ### Logger 
 (21:56) Inspecting Module Object 
 * app_inspect.js
@@ -69,3 +70,6 @@ app_inspect.js
 $ node app_inspect.js
 Result [ 'app_inspect.js' ]
 ```
+
+### Events   
+
