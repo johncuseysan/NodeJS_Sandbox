@@ -1,11 +1,31 @@
 <img src="https://github.com/johncuseysan/GettingStarted/blob/main/SanBanner.png" alt="John Cusey Sandbox Logo" height="150" width="1000">
 
-# NodeJS_Sandbox
+# Node JavaScript Sandbox
 
-# Topics Covered     
+## INTRODUCTION     
+* globalThis Object - can be object access anywhere in the application. 
+
+```JS
+globalThis.console.log("My Message")
+```
+Do not define function, object, variable and etc.. in the global scope it is better define using module. Using Module you can control access each script gets. 
+
+# TOPICS  
  
 ## Setup Environment        
-* Debugging - How to up the Debugger with Visual Studio Code Editor.
+### FOLDER: Debugging 
+How to up the Debugger with Visual Studio Code Editor.
 
-## Module      
-* Logger -  Inspection of the Export Object (app_inspect.js). Code Example of using the Export Oject (app_code.js) to import variables and functions from one JavaScript to another script.  
+## Module       
+### FOLDER: Logger 
+Inspection of the Export Object (app_inspect.js). Code Example of using the Export Oject (app_code.js) to import variables and functions from one JavaScript to another script.  
+
+## Module Wrapper Function 
+### FOLDER: Wrapper 
+Node do not execute own code directly but wrappers in the following wrapper.
+
+```JS
+(fuction (exports, require, module, __filename, __dirname){
+
+})
+```

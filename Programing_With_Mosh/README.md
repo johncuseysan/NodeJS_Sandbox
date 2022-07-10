@@ -1,13 +1,16 @@
+# Channel 
+[Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)
+
 # Resources   
-## Programming with Mosh  
 [Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=799s)
 
-### Module Explaination (15:32)
-### Inspecting Module Object (21:56) 
-```
-john@JOHN8CBB MINGW64 ~/Documents/NodeJS_Sandbox (main)
-$ cd Logger
+# Folders
+## Logger 
+(15:32) Module Explaination 
 
+(21:56) Inspecting Module Object 
+* app_inspect.js
+```JS
 john@JOHN8CBB MINGW64 ~/Documents/NodeJS_Sandbox/Logger (main)
 $ Node app_inspect.js
 Module {
@@ -26,17 +29,12 @@ Module {
     'C:\\node_modules'
   ]
 }
-```        
-### Code Example (23:19) 
 ```
-john@JOHN8CBB MINGW64 ~/Documents/NodeJS_Sandbox (main)
-$ cd Logger
-
+(23:19) Code Example 
+* app_code.js and logger.js
+```JS
 john@JOHN8CBB MINGW64 ~/Documents/NodeJS_Sandbox/Logger (main)
 $ Node app_code.js 
 Hello World! 
 URL EndPoint: http://www.yahoo.com
-
-```         
-
-   
+```
