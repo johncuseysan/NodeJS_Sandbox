@@ -1,6 +1,6 @@
 # Resources   
 ## Programming with Mosh  
-[Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=2oFKNL7vYV8&t=54s)
+[Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=799s)
 
 ### Module Explaination (15:32)
 ### Inspecting Module Object (21:56) 
