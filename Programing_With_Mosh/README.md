@@ -5,9 +5,10 @@
 [Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=799s)
 
 ## FOLDERS
-### Logger 
+
 (15:32) Module Explaination 
 
+### Logger 
 (21:56) Inspecting Module Object 
 * app_inspect.js
 ```JS
@@ -37,4 +38,19 @@ john@JOHN8CBB MINGW64 ~/Documents/NodeJS_Sandbox/Logger (main)
 $ Node app_code.js 
 Hello World! 
 URL EndPoint: http://www.yahoo.com
+```
+
+### Wrapper
+(33:02) Inspects the wrappers
+* app_inspect.js
+```JS
+john@JOHN8CBB MINGW64 ~/Documents/NodeJS_Sandbox/Programing_With_Mosh/Wrapper (main)
+$ node app_inspect.js
+Export:[object Object]
+Require:function require(path) {
+      return mod.require(path);
+    }
+Module:[object Object]
+__filename:C:\Users\john\Documents\NodeJS_Sandbox\Programing_With_Mosh\Wrapper\app_inspect.js
+__dirname:C:\Users\john\Documents\NodeJS_Sandbox\Programing_With_Mosh\Wrapper
 ```
