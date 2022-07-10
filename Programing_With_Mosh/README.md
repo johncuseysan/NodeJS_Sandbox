@@ -1,11 +1,11 @@
-# Channel 
+# YOUTUBE CHANNEL 
 [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)
 
-# Resources   
+# YOUTUBE RESOURCES   
 [Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=799s)
 
-# Folders
-## Logger 
+## FOLDERS
+### Logger 
 (15:32) Module Explaination 
 
 (21:56) Inspecting Module Object 
