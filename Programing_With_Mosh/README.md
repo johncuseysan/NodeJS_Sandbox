@@ -1,14 +1,13 @@
-# YOUTUBE CHANNEL AND RESOURCES
-## MOSH       
+# YOUTUBE CHANNEL AND RESOURCES      
 [Programming With Mosh](https://www.youtube.com/c/programmingwithmosh)    
 [Node.js Tutorial for Beginners: Learn Node in 1 Hour - YouTube](https://www.youtube.com/watch?v=TlB_eWDSMt4&t=799s)
 
 ## FOLDERS
 
-(15:32 - MOSH) Module Explaination 
+(15:32) Module Explaination 
 
 ### Logger 
-(21:56  - MOSH) Inspecting Module Object 
+(21:56) Inspecting Module Object 
 * app_inspect.js
 ```JS
 Module {
@@ -28,7 +27,7 @@ Module {
   ]
 }
 ```
-(23:19 - MOSH) Code Example 
+(23:19) Code Example 
 * app_code.js and logger.js
 ```JS
 Hello World! 
@@ -36,7 +35,7 @@ URL EndPoint: http://www.yahoo.com
 ```
 
 ### Wrapper
-(33:02 - MOSH) Inspects the wrappers
+(33:02) Inspects the wrappers
 * app_inspect.js
 ```JS
 Export:[object Object]
@@ -48,8 +47,7 @@ __filename:C:\Users\john\Documents\NodeJS_Sandbox\Programing_With_Mosh\Wrapper\a
 __dirname:C:\Users\john\Documents\NodeJS_Sandbox\Programing_With_Mosh\Wrapper
 ```
 ### Path
-
-(43:25  - MOSH) parse       
+(43:25) parse       
 *app_inspect.js         
 ```JS
 {
@@ -63,5 +61,5 @@ __dirname:C:\Users\john\Documents\NodeJS_Sandbox\Programing_With_Mosh\Wrapper
 
 ### FileSystem
 
-(53:01  - MOSH) readdir           
+(53:01) readdir           
 *app_readdir.js
