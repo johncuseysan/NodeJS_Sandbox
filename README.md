@@ -33,6 +33,6 @@ Node do not execute own code directly but wrappers in the following wrapper.
 ### FOLDER: Path
 * parse - The path.parse() method returns an object whose properties represent significant elements of the path 
 
-## FileSystem
+## File System
 ### FOLDER: FileSystem
 * readdir - Reads the contents of a directory. The callback gets two arguments (err, files) where files is an array of the names of the files in the directory excluding '.' and '..'.     
