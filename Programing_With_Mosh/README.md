@@ -72,4 +72,8 @@ Result [ 'app_inspect.js' ]
 ```
 
 ### Events   
-
+(56:48) emit and on 
+*app_code.js
+```JS
+The messageLogged heard event
+```
