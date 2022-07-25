@@ -44,7 +44,7 @@ Look at each parameters (app_inspect.js)
 * readdir - Reads the contents of a directory. The callback gets two arguments (err, files) where files is an array of the names of the files in the directory excluding '.' and '..'.  (app_inspect.js:43:00)
 
 #### FOLDER: NodeJSLearn/Write
-A new file with specified filename is created with data specified. If a file with the same name exists already, the content is overwritten. Care has to be taken as previous content of file could be lost.
+A new file with specified filename is created with data specified. If a file with the same name exists already, the content is overwritten. Care has to be taken as previous content of file could be lost. (app_write.js, test.html)
 
 #### FOLDER: WorkArea/FileSystem
 
